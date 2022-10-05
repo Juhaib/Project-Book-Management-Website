@@ -1,0 +1,27 @@
+{
+  "name": "project-03-books-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jssekhar2000/Project-03-Books-Management.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jssekhar2000/Project-03-Books-Management/issues"
+  },
+  "homepage": "https://github.com/jssekhar2000/Project-03-Books-Management#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16",
+    "body-parser": "^1.20.0"
+  }
+}
